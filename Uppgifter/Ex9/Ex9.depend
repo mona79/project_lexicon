@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661971026 source:c:\users\m\desktop\uppgifter\ex9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

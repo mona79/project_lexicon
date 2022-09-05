@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662030322 source:c:\users\m\desktop\uppgifter\ex14\main.c
+	<stdio.h>
+	<stdlib.h>
+

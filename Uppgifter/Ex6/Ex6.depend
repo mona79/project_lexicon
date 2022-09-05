@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662028843 source:c:\users\m\desktop\uppgifter\ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
